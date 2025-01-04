@@ -95,9 +95,11 @@
 
   .card__contentContainer h1 {
     line-height: var(--line-height-sm);
+    color: var(--slate-900);
   }
 
   .card__contentContainer p {
     margin-top: var(--spacing-small);
+    color: var(--slate-500);
   }
 }
